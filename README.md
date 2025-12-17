@@ -14,3 +14,7 @@ This sketch is also part of my workshops on Physical Computing. Any generic deve
 ![A messy desk with a computer and an arduino attached to it](docs/capacitive_touch_sensor_low_tech-04.jpeg)
 
 [^1]: Not my idea. See [http://highlowtech.org/](http://highlowtech.org/). Yes it is http.
+
+## License
+
+© 2025 Fabian Morón Zirfas. Licensed under CC-BY-4.0.
