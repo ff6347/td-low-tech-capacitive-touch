@@ -17,6 +17,8 @@ This sketch is also part of my workshops on Physical Computing. Any generic deve
 
 ![A messy desk with a computer and an arduino attached to it](docs/capacitive_touch_sensor_low_tech-04.jpeg)
 
+![A messy desk with a computer and an arduino attached to it some drawings with conductive ink and copper tape](docs/capacitive_touch_sensor_low_tech-05.jpeg)
+
 ![A Fritzing sketch of the circuit](docs/capacitive_touch_bb.png)
 
 [^1]: Not my idea. See [http://highlowtech.org/](http://highlowtech.org/). Yes it is http.
